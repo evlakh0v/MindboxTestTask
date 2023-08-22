@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Request", "Request\Request.csproj", "{841CFF6D-A90D-4E2A-9560-D14866D15C30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiguresLibrary", "FiguresLibrary\FiguresLibrary.csproj", "{1E8CD4D5-8CBA-4E35-A113-DD5685A26266}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiguresTests", "FiguresTests\FiguresTests.csproj", "{A9B258BC-C5A5-4A9E-A0F0-02017484D06C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{841CFF6D-A90D-4E2A-9560-D14866D15C30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{841CFF6D-A90D-4E2A-9560-D14866D15C30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{841CFF6D-A90D-4E2A-9560-D14866D15C30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{841CFF6D-A90D-4E2A-9560-D14866D15C30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E8CD4D5-8CBA-4E35-A113-DD5685A26266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E8CD4D5-8CBA-4E35-A113-DD5685A26266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E8CD4D5-8CBA-4E35-A113-DD5685A26266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E8CD4D5-8CBA-4E35-A113-DD5685A26266}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9B258BC-C5A5-4A9E-A0F0-02017484D06C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9B258BC-C5A5-4A9E-A0F0-02017484D06C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9B258BC-C5A5-4A9E-A0F0-02017484D06C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9B258BC-C5A5-4A9E-A0F0-02017484D06C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
